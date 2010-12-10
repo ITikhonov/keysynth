@@ -1,0 +1,9 @@
+
+Usage: ./keysynth <soundfont file> <part of keyboard alsa port name>
+Example: ./keysynth WST25FStein_00Sep22.SF2 "Keystation 61es"
+
+To list all available port names just run keysynth without arguments. You can
+type only part of port name to match. For example if full name is "USB Keystation 61es MIDI 1"
+it's enought to simply type "Keystation".
+
+

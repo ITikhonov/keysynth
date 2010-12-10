@@ -1,0 +1,3 @@
+LDFLAGS=-lfluidsynth
+
+all: keysynth
